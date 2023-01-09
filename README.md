@@ -18,7 +18,7 @@
 
 🧰 Toolbox
 
-![Image]((https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png)
+![Image](https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png)
 
 
 
