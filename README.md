@@ -8,9 +8,9 @@
 
 🔭 I’m currently working on building a Flask REST API for a gradebook application I am developing. I'm almost done! After I've finished the backend, I plan on using React to develop the frontend. 
 
-🧐 I'm currentlyy learning Flask, React, data structures and algorithms, and version control with gituhb 
+🧐 I'm learning Flask, React, data structures and algorithms, and version control with gituhb 
 
-❓ Ask me about my previous projects, 
+❓ Ask me about my previous projects. See some of the pins below!
 
 📬 Feel free to contact me via linkedin (www.linkedin.com/in/ian-campbell-77981a1a7) or email (ipcampbell12@gmail.com) 
 
