@@ -14,16 +14,6 @@
 
 📬 Feel free to contact me via linkedin (www.linkedin.com/in/ian-campbell-77981a1a7) or email (ipcampbell12@gmail.com) 
 
----
-
-🧰 Toolbox
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png =50x50)
-
-
-
-
----
 
 
 
