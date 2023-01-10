@@ -6,9 +6,9 @@
 -->
 
 
-🔭 I’m currently working on building a Flask REST API for a gradebook application I am developing. I'm almost done! After I've finished the backend, I plan on using React to develop the frontend. 
+🔭 I’m currently working on building a gradebook application using python Flask, React and Material UI
 
-🧐 I'm learning Flask, React, data structures and algorithms, and version control with gituhb 
+🧐 I'm learning Flask, React, and data structures and algorithms 
 
 ❓ Ask me about my previous projects. See some of the pins below!
 
